@@ -1,20 +1,20 @@
-Challenge Back End Alura - Foro Hub
-Descripción
-Este desafío tiene como objetivo el desarrollo de una API Rest. Foro Hub, simula el funcionamiento del foro del sitio web de Alura.
+🌐 Challenge Back End Alura - Foro Hub
+📜 Descripción
+El Challenge Back End Alura tiene como objetivo la creación de una API Rest. Foro Hub, una aplicacion que simula el funcionamiento del foro del sitio web de Alura.
 
-Funcionalidades
-La API incluye las siguientes funcionalidades:
+⚙️ Funcionalidades
+La API ofrece las siguientes características:
 
-Crear un nuevo tema: Los usuarios pueden añadir nuevos asuntos de discusión.
-Listar todos los temas: Permite consultar todos los temas que se han creado en el foro.
-Obtener un tema específico: Facilita la visualización de los detalles de un tema mediante su identificador único.
-Actualizar un tema existente: Posibilita la modificación de la información de un tema ya creado.
-Eliminar un tema: Permite remover un tema del foro de manera permanente.
-Tecnologías Utilizadas
+Crear un nuevo tema: Agregar nuevos asuntos de discusión.
+Listar todos los temas: Consultar todos los temas creados en el foro.
+Consultar un tema específico: Obtener detalles de un tema mediante su identificador.
+Actualizar un tema: Modificar la información de un tema existente.
+Eliminar un tema: Remover un tema del foro.
+🛠️ Tecnologías Utilizadas
 Este proyecto se ha desarrollado utilizando las siguientes tecnologías:
 
 Java 23
 Spring Boot
 Spring Data JPA
-Base de datos MySQL (según la configuración)
-Maven (gestor de dependencias)
+Base de datos MySQL
+Maven
